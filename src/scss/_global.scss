@@ -42,7 +42,7 @@ a {
 }
 
 .section  {
-  padding: 120px;
+  padding: 130px;
 }
 
 .sub-title {
@@ -52,15 +52,14 @@ a {
 }
 
 .btn{
-  padding: 10px 20px;
-  position: relative;
-  // border-radius: 10px;
+  padding: 10px 20px 11px 20px;
   min-width: 100px;
-  text-align: center;
-  border: none;
+  background-color: white;
+  color: black;
+  border: 5px dotted black;
+  transition: all .3s;
   cursor: pointer;
 }
-
 
 
 button{
